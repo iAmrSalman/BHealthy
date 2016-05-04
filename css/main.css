@@ -1,0 +1,92 @@
+.navbar{
+  	background-color: #008000;
+  }
+  #Bheathy{
+  	
+   font-size:0.7cm;
+   color: white;
+   font-family:Arial; 
+   float: left;
+   
+  }
+  a{
+  	color: #fff;
+  }
+  body{
+  	background-color: #A1EB56;
+      margin: 0;
+
+  }
+  .white{
+  	background-color: #FFF;
+  	border: 5px solid #fff;
+  	border-radius: 8px;
+  	padding: 5px;
+
+  }
+  .img img{
+  	display: block;
+  	margin: auto;
+  	margin-bottom: 20px;
+  }
+  .footer{
+  	text-align: center;
+  	color: #FFF;
+  	font-weight: bold;
+  	font-size: 15px;
+  }
+ 
+  #fitness p{
+  	padding:20px 0 0 30px;
+  	font-weight: bold;
+  	font-size: 0.9cm;
+  	font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    float:left;
+  }
+  #fitness ul{
+  	float: left;
+  	clear: both;
+  }
+  #fitness li{
+  	float: left;
+    margin: 20;
+    padding-left: 20px;
+    list-style: none;
+  	} 
+  	#absfat p{
+  	padding:20px 0 0 30px;
+  	font-weight: bold;
+  	font-size: 0.9cm;
+  	font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    float:left;
+  }
+  #absfat ul{
+  	float: left;
+  	clear: both;
+  }
+  #absfat li{
+  	float: left;
+    margin: 20;
+    padding-left: 20px;
+    list-style: none;
+  	} 
+  	#twinmuscle p{
+  	padding:20px 0 0 30px;
+  	font-weight: bold;
+  	font-size: 0.9cm;
+  	font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    float:left;
+  }
+  #twinmuscle ul{
+  	float: left;
+  	clear: both;
+  }
+  #twinmuscle li{
+  	float: left;
+    margin: 20;
+    padding-left: 20px;
+    list-style: none;
+  	} 
